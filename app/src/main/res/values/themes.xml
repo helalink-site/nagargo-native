@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.NagarGo" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:statusBarColor">#050806</item>
+        <item name="android:navigationBarColor">#050806</item>
+    </style>
+</resources>
